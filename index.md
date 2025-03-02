@@ -22,11 +22,13 @@ I am a third-year undergraduate student at the University of Electronic Science 
 
 ## Publications
 1. [**Fairness Analysis of CLIP-Based Foundation Models for X-ray Image Classification**](https://arxiv.org/abs/2501.19086)
+
    Xiangyu Sun, Xiaoguang Zou, Yuanquan Wu, Guotai Wang, Shaoting Zhang  
    *Accepted at ISBI 2025*
 
 2. [**ResNet Models with SE Attention for Lung Disease Detection**](https://ieeexplore.ieee.org/document/10796726)
-   Hanyu Fang, Hao Xu, Xiangyu Sun, Xinyu Zhang, Zhuoyang Yan, Teoh T. Toe  
+
+   Hanyu Fang, Hao Xu, Xiangyu Sun, Xinyu Zhang, Zhuoyang Yan, Teoh T. Toe
    *Accepted at ICPICS 2024*
 
 ## Honors & Scholarships
@@ -48,11 +50,9 @@ I am a third-year undergraduate student at the University of Electronic Science 
 - **Operating Systems**: Linux, Windows
 
 ### Courses Undertaken
-- Artificial Intelligence
-- Machine Vision
-- Robotics
-- Automatic Control Theory
-- Mechanical Design
-- Micro Embedded Systems
-- ROS
-- Data Structures and Algorithms
+Artificial Intelligence, Machine Vision, Robotics
+, Automatic Control Theory
+, Mechanical Design
+, Micro Embedded Systems
+, ROS
+, Data Structures and Algorithms
