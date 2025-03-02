@@ -14,7 +14,7 @@ I am a third-year undergraduate student at the University of Electronic Science 
 ### Undergraduate Researcher: Fairness in Medical Vision-Language Models
 - **HiLab, UESTC** | Mentor: Prof. Guotai Wang | 05/2024 - Present  
   - First-authored paper accepted at **ISBI 2025**: Constructed a fully fair dataset spanning multiple sensitive attributes (e.g., gender, age) to conduct a comprehensive fairness analysis of 4 Vision-Language Models (VLMs) under 5 Parameter-Efficient Fine-Tuning (PEFT) methods.  
-  - First-authored paper under review for **MICCAI 2025**: Proposed a novel, parameter-efficient fine-tuning method to mitigate biases in VLMs.
+  - First-authored paper under review for **MICCAI 2025**.
 
 ### Research Intern: Medical Image Computation
 - **NTU, Singapore** | Mentor: Dr. Teoh Teik Toe | 01/2024  
