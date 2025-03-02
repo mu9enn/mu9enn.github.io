@@ -42,7 +42,7 @@ I am a third-year undergraduate student pursuing a degree in Robotics Engineerin
 - Generalization
 
 ## Technical Strengths
-- **Programming Languages**: Python (PyTorch, NumPy, Scikit-learn, Pybullets, etc.), C++, LaTeX, ROS
+- **Programming**: Python (PyTorch, NumPy, Scikit-learn, Pybullets, etc.), C++, LaTeX, ROS
 - **Expertise**: VLM, Transfer Learning, Generalization, Medical Image Analysis, Robotics
 - **Languages**: Mandarin (native), English (fluent, CET-6: 576/710)
 - **Operating Systems**: Linux, Windows
