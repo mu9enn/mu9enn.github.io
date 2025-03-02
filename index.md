@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am a third-year undergraduate student at the University of Electronic Science and Technology of China (UESTC), majoring in Robotics Engineering. I am seeking Summer Research Internship opportunities with a focus on Generalization for Spatial Intelligence.
+I am a third-year undergraduate student pursuing a degree in Robotics Engineering at the University of Electronic Science and Technology of China (UESTC). Currently, I am an undergraduate researcher at [UESTC HiLab](https://hilab.uestc.edu.cn/) under the guidance of [Prof. Guotai Wang]([https://faculty.uestc.edu.cn/wangguotai/en/index.htm](https://faculty.uestc.edu.cn/wangguotai/zh_CN/index.htm)), where I focus on exploring **fairness in vision-language models (VLMs) for medical imaging.**
 
 ## Education
 - **University of Electronic Science and Technology of China (UESTC)**, Chengdu, China  
