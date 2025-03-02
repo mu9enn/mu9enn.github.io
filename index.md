@@ -11,12 +11,12 @@ I am a third-year undergraduate student pursuing a degree in Robotics Engineerin
   GPA: 3.92/4.00 — Rank: 2/43 (top 5%)
 
 ## Research Experience
-### Undergraduate Researcher: Fairness in Medical Vision-Language Models
+### 1. Undergraduate Researcher: Fairness in Medical Vision-Language Models
 - **HiLab, UESTC** | Mentor: Prof. Guotai Wang | 05/2024 - Present  
   - First-authored paper accepted at **ISBI 2025**: Constructed a fully fair dataset spanning multiple sensitive attributes (e.g., gender, age) to conduct a comprehensive fairness analysis of 4 Vision-Language Models (VLMs) under 5 Parameter-Efficient Fine-Tuning (PEFT) methods.  
   - First-authored paper under review for **MICCAI 2025**.
 
-### Research Intern: Medical Image Computation
+### 2. Research Intern: Medical Image Computation
 - **NTU, Singapore** | Mentor: Dr. Teoh Teik Toe | 01/2024  
   - Contributed as a third author to a paper accepted by **ICPICS 2024**: Investigated the impact of Squeeze-and-Excitation (SE) attention modules on ResNet variants for chest X-ray classification.
 
