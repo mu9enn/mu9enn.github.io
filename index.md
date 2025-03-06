@@ -21,11 +21,12 @@ I am a third-year undergraduate student pursuing a degree in Robotics Engineerin
   - Contributed as a third author to a paper accepted by **ICPICS 2024**: Investigated the impact of Squeeze-and-Excitation (SE) attention modules on ResNet variants for chest X-ray classification.
 
 ## Publications
-1. [**Fairness Analysis of CLIP-Based Foundation Models for X-ray Image Classification**](https://arxiv.org/abs/2501.19086)  
+1. **MICCAI 2025** paper under review
+2. [**Fairness Analysis of CLIP-Based Foundation Models for X-ray Image Classification**](https://arxiv.org/abs/2501.19086)  
    Xiangyu Sun, Xiaoguang Zou, Yuanquan Wu, Guotai Wang, Shaoting Zhang  
    *Accepted at ISBI 2025*  
 
-2. [**ResNet Models with SE Attention for Lung Disease Detection**](https://ieeexplore.ieee.org/document/10796726)  
+3. [**ResNet Models with SE Attention for Lung Disease Detection**](https://ieeexplore.ieee.org/document/10796726)  
    Hanyu Fang, Hao Xu, Xiangyu Sun, Xinyu Zhang, Zhuoyang Yan, Teoh T. Toe  
    *Accepted at ICPICS 2024*  
 
@@ -37,9 +38,8 @@ I am a third-year undergraduate student pursuing a degree in Robotics Engineerin
 
 ## Research Interests
 - Computer Vision
-- Robotics
 - Vision-Language Models
-- Generalization
+- Trustworthy Learning Algorithms
 
 ## Technical Strengths
 - **Programming**: Python (PyTorch, NumPy, Scikit-learn, Pybullets, etc.), C++, LaTeX, ROS
