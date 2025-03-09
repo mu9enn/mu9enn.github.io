@@ -19,7 +19,8 @@ cv_link: assets/files/Resume_of_XiangyuSun.pdf
 # twitter: https://x.com/awku585287
 
 # Images 
-avatar: ./assets/img/selfie.jpg  # Upload your profile picture here
+# avatar: ./assets/img/selfie.jpg  # Upload your profile picture here
+avatar: ./assets/img/mmexport1741532439468.jpg
 favicon: ./assets/img/icon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
