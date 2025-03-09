@@ -15,8 +15,8 @@ canonical: https://mu9enn.github.io/
 google_scholar: https://scholar.google.com.hk/citations?user=tXofRmcAAAAJ&hl=zh-CN
 cv_link: assets/files/cv_xiangyusun.pdf
 github_link: https://github.com/mu9enn
-linkedin: https://www.linkedin.com/in/your-profile
-twitter: https://x.com/awku585287
+# linkedin: https://www.linkedin.com/in/your-profile
+# twitter: https://x.com/awku585287
 
 # Images 
 avatar: ./assets/img/selfie.jpg  # Upload your profile picture here
