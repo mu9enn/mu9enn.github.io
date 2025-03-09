@@ -21,7 +21,7 @@ I am a third-year undergraduate student pursuing a degree in Robotics Engineerin
   - Contributed as a third author to a paper accepted by **ICPICS 2024**: Investigated the impact of Squeeze-and-Excitation (SE) attention modules on ResNet variants for chest X-ray classification.
 
 ## Publications
-1. **MICCAI 2025** paper under review
+1. one paper submitted to **MICCAI 2025**  under review
 2. [**Fairness Analysis of CLIP-Based Foundation Models for X-ray Image Classification**](https://arxiv.org/abs/2501.19086)  
    Xiangyu Sun, Xiaoguang Zou, Yuanquan Wu, Guotai Wang, Shaoting Zhang  
    *Accepted at ISBI 2025*  
@@ -38,6 +38,7 @@ I am a third-year undergraduate student pursuing a degree in Robotics Engineerin
 
 ## Research Interests
 - Computer Vision
+- Medical Image Analysis
 - Vision-Language Models
 - Trustworthy Learning Algorithms
 
@@ -48,9 +49,7 @@ I am a third-year undergraduate student pursuing a degree in Robotics Engineerin
 - **Operating Systems**: Linux, Windows
 
 ### Courses Undertaken
-Artificial Intelligence, Machine Vision, Robotics
-, Automatic Control Theory
-, Mechanical Design
-, Micro Embedded Systems
-, ROS
-, Data Structures and Algorithms
+Artificial Intelligence, Machine Vision, Data Structures and Algorithms,
+Robotics, ROS, Automatic Control Theory, Mechanical Design, Micro Embedded Systems
+
+
