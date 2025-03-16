@@ -22,6 +22,7 @@ I am a third-year undergraduate student pursuing a degree in Robotics Engineerin
 
 ## Publications
 1. one paper submitted to **MICCAI 2025**  under review
+   
 2. [**Fairness Analysis of CLIP-Based Foundation Models for X-ray Image Classification**](https://arxiv.org/abs/2501.19086)  
    Xiangyu Sun, Xiaoguang Zou, Yuanquan Wu, Guotai Wang, Shaoting Zhang  
    *Accepted at ISBI 2025*  
