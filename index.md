@@ -8,7 +8,7 @@ I am a third-year undergraduate student pursuing a degree in Robotics Engineerin
 ## Education
 - **University of Electronic Science and Technology of China (UESTC)**, Chengdu, China  
   **Bachelor of Robotics Engineering**, 2022 - 2026  
-  GPA: 3.92/4.00 — Rank: 2/43 (top 5%)
+  GPA: 3.92/4.00 — Rank: 3/42 (top 7%)
 
 ## Research Experience
 ### 1. Undergraduate Researcher: Fairness in Medical Vision-Language Models
