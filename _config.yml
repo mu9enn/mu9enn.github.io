@@ -1,57 +1,38 @@
+remote_theme: yaoyao-liu/minimal-light
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Xiangyu Sun
+position: Undergraduate Student
+affiliation: University of Electronic Science and Technology of China (UESTC)
+affiliation_link: https://www.uestc.edu.cn/
+email1: sunx4382@gmail.com
+email2: 2022040908003@std.uestc.edu.cn
 
 # Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Xiangyu Sun, UESTC, Robotics, Computer Vision, Vision-Language Models, Generalization
+description: Personal homepage of Xiangyu Sun, a third-year undergraduate student at UESTC with interests in Robotics and Computer Vision.
+canonical: https://mu9enn.github.io/
 
 # Links 
-# If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+google_scholar: https://scholar.google.com.hk/citations?user=tXofRmcAAAAJ&hl=zh-CN
+github_link: https://github.com/mu9enn
+cv_link: assets/files/Resume_of_XiangyuSun.pdf
+# linkedin: https://www.linkedin.com/in/your-profile
+# twitter: https://x.com/awku585287
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
-favicon: ./assets/img/favicon.png
+# Images 
+# avatar: ./assets/img/selfie.jpg  # Upload your profile picture here
+avatar: ./assets/files/mmexport1741532439468.jpg
+favicon: ./assets/img/icon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
 enable_footnote: true
 
 # Auto Dark Mode
-# You may use the option to disable the automatic dark theme
 auto_dark_mode: true
 
 # Font
-# You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
+font: "Serif"
 
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
-
-# Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-remote_theme: yaoyao-liu/minimal-light
-
-# The following files will be removed from the generated website.
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - README_zh_Hans.md
-  - README_zh_Hant.md
-  - README_de.md
-  - LICENSE
-  - minimal-light.gemspec
-  - html_source_file/
+# Google Analytics ID (optional)
+# google_analytics: UA-XXXXX-X  # Remove if not using

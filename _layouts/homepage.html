@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ site.title }} | {{site.affiliation}}</title>
+    <title>Xiangyu's Homepage</title>
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -53,8 +53,11 @@
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
         {% endif %}
-        {% if site.email %}
-        <email>{{ site.email }}</email>
+        {% if site.email1 %}
+        <email1>{{ site.email1 }}</email1><br>
+        {% endif %}
+        {% if site.email2 %}
+        <email2>{{ site.email2 }}</email2>
         {% endif %}
 
         <br>
