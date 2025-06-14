@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am a third-year undergraduate student pursuing a degree in Robotics Engineering at the University of Electronic Science and Technology of China (UESTC). Currently, I am an undergraduate researcher at [UESTC HiLab](https://hilab.uestc.edu.cn/) under the guidance of [Prof. Guotai Wang](https://scholar.google.co.uk/citations?user=Z2sFN4EAAAAJ&hl=en) and [Prof. Shaoting Zhang](https://scholar.google.com.hk/citations?user=oiBMWK4AAAAJ&hl=en), where I focus on exploring **fairness in vision-language models (VLMs) for medical imaging.**
+I am a third-year undergraduate student pursuing a degree in Robotics Engineering at the University of Electronic Science and Technology of China (UESTC). Currently, I am an undergraduate researcher at [UESTC HiLab](https://hilab.uestc.edu.cn/) under the guidance of [Prof. Guotai Wang](https://scholar.google.co.uk/citations?user=Z2sFN4EAAAAJ) and [Prof. Shaoting Zhang](https://scholar.google.com.hk/citations?user=oiBMWK4AAAAJ), where I focus on exploring **fairness in vision-language models (VLMs) for medical imaging.**
 
 ## Education
 - **University of Electronic Science and Technology of China (UESTC)**, Chengdu, China  
@@ -15,8 +15,12 @@ I am a third-year undergraduate student pursuing a degree in Robotics Engineerin
 - **HiLab, UESTC** | Mentor: Prof. Guotai Wang | 05/2024 - Present  
   - First-authored paper accepted at **ISBI 2025**: Constructed a fully fair dataset spanning multiple sensitive attributes (e.g., gender, age) to conduct a comprehensive fairness analysis of 4 Vision-Language Models (VLMs) under 5 Parameter-Efficient Fine-Tuning (PEFT) methods.  
   - First-authored paper under review for **MICCAI 2025**.
+ 
+### 2. Visiting Student: Medical Image Analysis
+- **[MedAILab, Westlake Universiy](https://medai.lab.westlake.edu.cn/)** | Mentor: [Prof. Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ) | 06/2025 - Present  
+  - Focusing on integrating medical imaging, natural language, bioinformatics, and patient data to develop large multimodal models for advancing healthcare applications.
 
-### 2. Research Intern: Medical Image Computation
+### 3. Research Intern: Medical Image Analysis
 - **NTU, Singapore** | Mentor: Dr. Teoh Teik Toe | 01/2024  
   - Contributed as a third author to a paper accepted by **ICPICS 2024**: Investigated the impact of Squeeze-and-Excitation (SE) attention modules on ResNet variants for chest X-ray classification.
 
