@@ -9,7 +9,7 @@ This is the source code for my personal homepage, built using the [Minimal Light
 Feel free to explore and adapt this code for your own use!
 
 ## About
-I am a third-year undergraduate student at the University of Electronic Science and Technology of China (UESTC), majoring in Robotics Engineering. This site showcases my academic journey, research projects, and interests in Robotics, Computer Vision, and Vision-Language Models.
+I am a third-year undergraduate student at the University of Electronic Science and Technology of China (UESTC), majoring in Robotics Engineering. This site showcases my academic journey, research projects, and interests in AI for healthcare, Vision-Language Models, Algorithm Fairness and also Robotics.
 
 ## References
 This project is based on the following repositories:
