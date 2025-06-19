@@ -14,7 +14,7 @@ I am a third-year undergraduate student pursuing a degree in Robotics Engineerin
 ### 1. Undergraduate Researcher: Fairness in Medical Vision-Language Models
 - **[HiLab, UESTC](https://hilab.uestc.edu.cn/)** | Mentor: Prof. Guotai Wang | 05/2024 - Present  
   - First-authored paper accepted at **ISBI 2025**: Constructed a fully fair dataset spanning multiple sensitive attributes (e.g., gender, age) to conduct a comprehensive fairness analysis of 4 Vision-Language Models (VLMs) under 5 Parameter-Efficient Fine-Tuning (PEFT) methods.  
-  - First-authored paper under review for **MICCAI 2025**.
+  - One first-authored paper preparing for submission.
  
 ### 2. Visiting Student: Medical Image Analysis
 - **[MedAILab, Westlake Universiy](https://medai.lab.westlake.edu.cn/)** | Mentor: Prof. Yefeng Zheng | 06/2025 - Present  
@@ -25,7 +25,7 @@ I am a third-year undergraduate student pursuing a degree in Robotics Engineerin
   - Contributed as a third author to a paper accepted by **ICPICS 2024**: Investigated the impact of Squeeze-and-Excitation (SE) attention modules on ResNet variants for chest X-ray classification.
 
 ## Publications
-1. One first-authored paper submitted to **MICCAI 2025** under review
+1. One first-authored paper preparing for submission
    
 2. [**Fairness Analysis of CLIP-Based Foundation Models for X-ray Image Classification**](https://arxiv.org/abs/2501.19086)  
    Xiangyu Sun, Xiaoguang Zou, Yuanquan Wu, Guotai Wang, Shaoting Zhang  
