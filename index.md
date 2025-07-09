@@ -5,6 +5,7 @@ layout: homepage
 ## About Me
 I am a third-year undergraduate student pursuing a degree in Robotics Engineering at the University of Electronic Science and Technology of China (UESTC).    
 
+
 Currently, I am an undergraduate researcher at [UESTC HiLab](https://hilab.uestc.edu.cn/) under the guidance of [Prof. Guotai Wang](https://scholar.google.co.uk/citations?user=Z2sFN4EAAAAJ) and [Prof. Shaoting Zhang](https://scholar.google.com.hk/citations?user=oiBMWK4AAAAJ), where I focus on exploring **fairness in vision-language models (VLMs) for medical imaging.**
 
 ## Education
