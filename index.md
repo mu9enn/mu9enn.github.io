@@ -17,11 +17,11 @@ Currently, I am an undergraduate researcher at [UESTC HiLab](https://hilab.uestc
 ### 1. Undergraduate Researcher: Fairness in Medical Vision-Language Models
 - **[HiLab, UESTC](https://hilab.uestc.edu.cn/)** | Mentor: Prof. Guotai Wang | 05/2024 - Present  
   - First-authored paper accepted at **ISBI 2025**: Constructed a fully fair dataset spanning multiple sensitive attributes (e.g., gender, age) to conduct a comprehensive fairness analysis of 4 Vision-Language Models (VLMs) under 5 Parameter-Efficient Fine-Tuning (PEFT) methods.  
-  - One first-authored paper preparing for submission to AAAI 2026.
+  - One first-authored paper submitted to AAAI 2026.
  
 ### 2. Visiting Student: Medical Image Analysis
 - **[MedAILab, Westlake Universiy](https://medai.lab.westlake.edu.cn/)** | Mentor: Prof. Yefeng Zheng | 06/2025 - Present  
-  - Focusing on integrating medical imaging, natural language, bioinformatics, and patient data to develop large multimodal models for advancing healthcare applications.
+  - Dedicated to studying the unimodel bias problem of medical multimodal large language model (MLLM) in Vision Question Answering (VQA) tasks.
 
 ### 3. Research Intern: Medical Image Analysis
 - **NTU, Singapore** | Mentor: Dr. Teoh Teik Toe | 01/2024  
@@ -38,10 +38,11 @@ Currently, I am an undergraduate researcher at [UESTC HiLab](https://hilab.uestc
    *Accepted at ICPICS 2024*  
 
 ## Honors & Scholarships
-- **2024 - 2025** | National Scholarship, Ministry of Education, PRC
+- **2024 - 2025** | 🏆 Champion of 2025 RAICOM Robot Developer Competition
+- **2024 - 2025** | 🏆 National Scholarship, Ministry of Education, PRC
 - **2023 - 2025** | First-Class Scholarship, UESTC
 - **2023 - 2024** | Outstanding Staff Member, UESTC Student Union
-- **2023 - 2024** | Second Prize, Sichuan University Engineering Competition
+
 
 ## Research Interests
 - Computer Vision
@@ -50,7 +51,7 @@ Currently, I am an undergraduate researcher at [UESTC HiLab](https://hilab.uestc
 - Trustworthy Learning Algorithms
 
 ## Technical Strengths
-- **Programming**: Python (PyTorch, NumPy, Scikit-learn, Pybullets, etc.), C++, LaTeX, ROS
+- **Programming**: Python (PyTorch, NumPy, Scikit-learn, etc.), C++, LaTeX, ROS
 - **Expertise**: VLM, Transfer Learning, Generalization, Medical Image Analysis, Robotics
 - **Languages**: Mandarin (native), English (fluent, CET-6: 576/710)
 - **Operating Systems**: Linux, Windows
