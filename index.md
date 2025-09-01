@@ -20,7 +20,7 @@ Currently, I am an undergraduate researcher at [UESTC HiLab](https://hilab.uestc
   - One first-authored paper submitted to AAAI 2026.
  
 ### 2. Visiting Student: Medical Image Analysis
-- **[MedAILab, Westlake Universiy](https://medai.lab.westlake.edu.cn/)** | Mentor: Prof. Yefeng Zheng | 06/2025 - Present  
+- **[MedAILab, Westlake Universiy](https://medai.lab.westlake.edu.cn/)** | Mentor: Prof. Yefeng Zheng | 06/2025 - 08/2025  
   - Dedicated to studying the unimodel bias problem of medical multimodal large language model (MLLM) in Vision Question Answering (VQA) tasks.
 
 ### 3. Research Intern: Medical Image Analysis
