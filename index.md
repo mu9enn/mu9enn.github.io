@@ -11,7 +11,7 @@ Currently, I am an undergraduate researcher at [UESTC HiLab](https://hilab.uestc
 ## Education
 - **University of Electronic Science and Technology of China (UESTC)**, Chengdu, China  
   **Bachelor of Robotics Engineering**, 2022 - 2026  
-  GPA: 3.92/4.00 — Rank: 3/42 (top 7%)
+  GPA: 3.92/4.00 — Rank: 3/43 (top 7%)
 
 ## Research Experience
 ### 1. Undergraduate Researcher: Fairness in Medical Vision-Language Models
