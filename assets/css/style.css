@@ -2153,3 +2153,82 @@ textarea.form-input::-webkit-resizer {
   }
 
 }
+
+
+/* ======================================================
+   Academic List Section (Publications / Events / News)
+   ====================================================== */
+
+.academic-list {
+  margin-top: 30px;
+}
+
+.academic-list-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 20px;
+  color: var(--white-2);
+}
+
+/* Remove default list style */
+.academic-list ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Single academic item */
+.academic-item {
+  padding: 16px 0;
+  border-bottom: 1px solid var(--jet);
+}
+
+.academic-item:last-child {
+  border-bottom: none;
+}
+
+/* Title (paper title / event title) */
+.academic-item-title {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  margin-bottom: 6px;
+  color: var(--white-1);
+}
+
+/* Title link */
+.academic-item-title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.academic-item-title a:hover {
+  text-decoration: underline;
+}
+
+/* Authors / description */
+.academic-item-meta {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  margin-bottom: 4px;
+  color: var(--light-gray);
+}
+
+/* Venue / year / status */
+.academic-item-venue {
+  font-size: 0.85rem;
+  font-style: italic;
+  color: var(--light-gray-70);
+}
+
+/* Optional badge (e.g., First Author) */
+.academic-badge {
+  display: inline-block;
+  margin-left: 6px;
+  padding: 2px 6px;
+  font-size: 0.7rem;
+  border-radius: 4px;
+  background: var(--jet);
+  color: var(--white-2);
+  vertical-align: middle;
+}
