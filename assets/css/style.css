@@ -552,6 +552,37 @@ main {
   margin-bottom: 15px;
 }
 
+/* Make inline links readable on dark background */
+.about-text a,
+.service-item-text a,
+.timeline-text a,
+.blog-text a,
+.blog-content a,
+.academic-item-title a,
+.contact-info a {
+  color: var(--orange-yellow-crayola);
+}
+
+.about-text a:hover,
+.service-item-text a:hover,
+.timeline-text a:hover,
+.blog-text a:hover,
+.blog-content a:hover,
+.academic-item-title a:hover,
+.contact-info a:hover {
+  color: var(--orange-yellow-crayola);
+}
+
+.about-text a:visited,
+.service-item-text a:visited,
+.timeline-text a:visited,
+.blog-text a:visited,
+.blog-content a:visited,
+.academic-item-title a:visited,
+.contact-info a:visited {
+  color: var(--orange-yellow-crayola);
+}
+
 
 
 /**
