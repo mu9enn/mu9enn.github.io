@@ -361,8 +361,17 @@ main {
 
 .avatar-box {
   background: var(--bg-gradient-onyx);
+  width: 80px;
+  height: 80px;
   border-radius: 20px;
   overflow: hidden;
+  flex-shrink: 0;
+}
+
+.avatar-box img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .info-content .name {
@@ -1526,11 +1535,9 @@ textarea.form-input::-webkit-resizer {
   }
 
   .avatar-box {
-    border-radius: 30px;
-  }
-
-  .avatar-box img {
     width: 120px;
+    height: 120px;
+    border-radius: 30px;
   }
 
   .info-content .name {
@@ -2128,8 +2135,9 @@ textarea.form-input::-webkit-resizer {
     flex-direction: column;
   }
 
-  .avatar-box img {
+  .avatar-box {
     width: 150px;
+    height: 150px;
   }
 
   .info-content .name {
