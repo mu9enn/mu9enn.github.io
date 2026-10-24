@@ -141,24 +141,38 @@ if (form) {
 
 
 
-// page navigation variables
-const navigationLinks = document.querySelectorAll("[data-nav-link]");
-const pages = document.querySelectorAll("[data-page]");
+// section navigation variables (single-page scroll)
+const sectionLinks = document.querySelectorAll("[data-scroll-link]");
+const sections = [];
 
-// add event to all nav link
-for (let i = 0; i < navigationLinks.length; i++) {
-  navigationLinks[i].addEventListener("click", function () {
-
-    for (let i = 0; i < pages.length; i++) {
-      if (this.innerHTML.toLowerCase() === pages[i].dataset.page) {
-        pages[i].classList.add("active");
-        navigationLinks[i].classList.add("active");
-        window.scrollTo(0, 0);
-      } else {
-        pages[i].classList.remove("active");
-        navigationLinks[i].classList.remove("active");
-      }
-    }
-
-  });
+for (let i = 0; i < sectionLinks.length; i++) {
+  const target = document.querySelector(sectionLinks[i].getAttribute("href"));
+  if (target) sections.push(target);
 }
+
+// highlight the nav link of the section currently in view
+const syncActiveLink = function () {
+
+  if (!sections.length) return;
+
+  const probeLine = window.innerHeight * 0.3;
+  let current = sections[0];
+
+  for (let i = 0; i < sections.length; i++) {
+    if (sections[i].getBoundingClientRect().top <= probeLine) current = sections[i];
+  }
+
+  // when scrolled to the very bottom, always highlight the last section
+  const atBottom = window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 2;
+  if (atBottom) current = sections[sections.length - 1];
+
+  for (let i = 0; i < sectionLinks.length; i++) {
+    const isCurrent = sectionLinks[i].getAttribute("href") === "#" + current.id;
+    sectionLinks[i].classList.toggle("active", isCurrent);
+  }
+
+};
+
+window.addEventListener("scroll", syncActiveLink, { passive: true });
+window.addEventListener("resize", syncActiveLink);
+syncActiveLink();

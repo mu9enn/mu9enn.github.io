@@ -10,7 +10,7 @@
   <!--
     - favicon
   -->
-  <link rel="shortcut icon" href="./assets/images/sunx_icon.png" type="image/x-icon">
+  <link rel="shortcut icon" href="./assets/images/rukia.jpg" type="image/jpeg">
 
   <!--
     - custom css link
@@ -42,7 +42,7 @@
       <div class="sidebar-info">
 
         <figure class="avatar-box">
-          <img src="./assets/images/gpt_avatar2.png" alt="Xiangyu Sun" width="80">
+          <img src="./assets/images/rukia.jpg" alt="Xiangyu Sun" width="80">
         </figure>
 
         <div class="info-content">
@@ -71,9 +71,7 @@
 
             <div class="contact-info">
               <p class="contact-title">Institution</p>
-              <a href="https://en.sjtu.edu.cn/" class="contact-link" target="_blank" rel="noopener noreferrer">
-                SJTU / Shanghai AI Lab
-              </a>
+              <p class="contact-link"><a href="https://en.sjtu.edu.cn/" target="_blank" rel="noopener noreferrer">SJTU</a><span class="contact-sep">/</span><a href="https://www.shlab.org.cn/" target="_blank" rel="noopener noreferrer">Shanghai AI Lab</a></p>
             </div>
           </li>
 
@@ -151,23 +149,23 @@
         <ul class="navbar-list">
 
           <li class="navbar-item">
-            <button class="navbar-link active" data-nav-link>About</button>
+            <a href="#about" class="navbar-link active" data-scroll-link>About</a>
           </li>
 
           <li class="navbar-item">
-            <button class="navbar-link" data-nav-link>Experience</button>
+            <a href="#experience" class="navbar-link" data-scroll-link>Experience</a>
           </li>
 
           <li class="navbar-item">
-            <button class="navbar-link" data-nav-link>Publications</button>
+            <a href="#publications" class="navbar-link" data-scroll-link>Publications</a>
           </li>
 
           <li class="navbar-item">
-            <button class="navbar-link" data-nav-link>Blog</button>
+            <a href="#blog" class="navbar-link" data-scroll-link>Blog</a>
           </li>
 
           <li class="navbar-item">
-            <button class="navbar-link" data-nav-link>Contact</button>
+            <a href="#contact" class="navbar-link" data-scroll-link>Contact</a>
           </li>
 
         </ul>
@@ -177,7 +175,7 @@
       <!--
         - #ABOUT
       -->
-      <article class="about active" data-page="about">
+      <article class="about" id="about" data-page="about">
 
         <header>
           <h2 class="h2 article-title">About Me</h2>
@@ -199,47 +197,12 @@
           </p>
         </section>
 
-        <!-- Research Interests -->
-        <section class="service">
-
-          <h3 class="h3 service-title">Research Interests</h3>
-
-          <ul class="service-list">
-
-            <li class="service-item">
-              <div class="service-content-box">
-                <h4 class="h4 service-item-title">AI Agents</h4>
-              </div>
-            </li>
-
-            <li class="service-item">
-              <div class="service-content-box">
-                <h4 class="h4 service-item-title">AI for Science</h4>
-              </div>
-            </li>
-
-            <li class="service-item">
-              <div class="service-content-box">
-                <h4 class="h4 service-item-title">Multimodal Large Models</h4>
-              </div>
-            </li>
-
-            <li class="service-item">
-              <div class="service-content-box">
-                <h4 class="h4 service-item-title">Medical Image Analysis</h4>
-              </div>
-            </li>
-
-          </ul>
-
-        </section>
-
       </article>
 
       <!--
         - #EXPERIENCE
       -->
-      <article class="experience" data-page="experience">
+      <article class="experience" id="experience" data-page="experience">
 
         <header>
           <h2 class="h2 article-title">Experience</h2>
@@ -330,15 +293,11 @@
 
             <li class="timeline-item">
               <h4 class="h4 timeline-item-title">
-                Research Intern: Medical Image Analysis
+                Research Intern
               </h4>
               <span>NTU, Singapore (01/2024)</span>
               <p class="timeline-text">
-                Mentor: Dr. Teoh Teik Toe
-              </p>
-              <p class="timeline-text">
-                Third author of a paper accepted by <strong>ICPICS 2024</strong>, investigating
-                the impact of Squeeze-and-Excitation attention on ResNet variants for chest X-ray classification.
+                A short-term exchange visit — I had a great time in Singapore.
               </p>
             </li>
 
@@ -351,42 +310,48 @@
       <!--
         - #PUBLICATIONS
       -->
-      <article class="publications" data-page="publications">
+      <article class="publications" id="publications" data-page="publications">
 
         <header>
           <h2 class="h2 article-title">Publications</h2>
         </header>
 
-        <section class="blog-posts">
+        <section class="academic-list">
+          <ul>
+            <li class="academic-item">
+              <div class="academic-item-title">
+                <a href="https://doi.org/10.1016/j.patcog.2026.114701" target="_blank">
+                  Fair Fine-Tuning of Medical Vision-Language Models via Learned Textual Embedding of Sensitive Attributes
+                </a>
+                <span class="academic-badge">First Author</span>
+              </div>
 
-          <ul class="blog-posts-list">
+              <div class="academic-item-meta">
+                <strong>Xiangyu Sun</strong>, Xiaoguang Zou, Yuanquan Wu, Shaoting Zhang, Guotai Wang
+              </div>
 
-            <li class="blog-post-item">
-              <a href="https://ieeexplore.ieee.org/document/10980879" target="_blank" rel="noopener noreferrer">
-                <figure class="blog-banner-box">
-                  <img src="./assets/images/isbi2025.png" alt="ISBI 2025 Paper">
-                </figure>
-
-                <div class="blog-content">
-                  <h4 class="h4 blog-item-title">
-                    Fairness Analysis of CLIP-Based Foundation Models for X-ray Image Classification
-                  </h4>
-
-                  <p class="blog-text">
-                    <em>Accepted at ISBI 2025</em>
-                  </p>
-                </div>
-              </a>
+              <div class="academic-item-venue">
+                Pattern Recognition, 2026
+              </div>
             </li>
 
-          </ul>
+            <li class="academic-item">
+              <div class="academic-item-title">
+                <a href="https://www.biorxiv.org/content/10.1101/2026.04.03.716272" target="_blank">
+                  MolClaw: An Autonomous Agent with Hierarchical Skills for Drug Molecule Evaluation, Screening, and Optimization
+                </a>
+                <span class="academic-badge academic-badge--coauthor">Co-Author</span>
+              </div>
 
-        </section>
+              <div class="academic-item-meta">
+                Lisheng Zhang<sup class="author-mark">*</sup>, Lilong Wang<sup class="author-mark">*</sup>, <strong>Xiangyu Sun</strong><sup class="author-mark">*</sup>, Wei Tang<sup class="author-mark">*</sup>, Haoyang Su<sup class="author-mark">*</sup>, Yuehui Qian, Qikui Yang, Qingsong Li, Zhenyu Tang, Haoran Sun, Yingnan Han, Yankai Jiang, Wenjie Lou, Bowen Zhou, Xiaosong Wang, Lei Bai, Zhengwei Xie
+              </div>
 
-        <section class="academic-list">
-          <h3 class="academic-list-title">Publication List</h3>
+              <div class="academic-item-venue">
+                Preprint, bioRxiv, 2026
+              </div>
+            </li>
 
-          <ul>
             <li class="academic-item">
               <div class="academic-item-title">
                 <a href="https://ieeexplore.ieee.org/document/10980879" target="_blank">
@@ -403,32 +368,15 @@
                 Accepted at ISBI 2025
               </div>
             </li>
-
-            <li class="academic-item">
-              <div class="academic-item-title">
-                <a href="https://ieeexplore.ieee.org/document/10796726" target="_blank">
-                  ResNet Models with SE Attention for Lung Disease Detection
-                </a>
-              </div>
-
-              <div class="academic-item-meta">
-                Hanyu Fang, Hao Xu, <strong>Xiangyu Sun</strong>, Xinyu Zhang, Zhuoyang Yan, Teoh T. Toe
-              </div>
-
-              <div class="academic-item-venue">
-                Accepted at ICPICS 2024
-              </div>
-            </li>
           </ul>
         </section>
-
 
       </article>
 
       <!--
         - #BLOG
       -->
-      <article class="blog" data-page="blog">
+      <article class="blog" id="blog" data-page="blog">
 
         <header>
           <h2 class="h2 article-title">Blog</h2>
@@ -463,7 +411,7 @@
       <!--
         - #CONTACT
       -->
-      <article class="contact" data-page="contact">
+      <article class="contact" id="contact" data-page="contact">
 
         <header>
           <h2 class="h2 article-title">Contact</h2>
